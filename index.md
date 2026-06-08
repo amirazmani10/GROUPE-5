@@ -24,6 +24,8 @@ Année universitaire **2025-2026**
 
 **Point fort identifié :** vitesse de déplacement.
 
+[Voir le 3D](https://cad.onshape.com/documents/07646ee59cb8562e28d77f4a/w/f8c3c05c39bbff21b5297472/e/8cb9828b3fc7f4771eeacd2e?renderMode=0&uiState=6a26caec1c9cfda4dc6e792d){: .btn .btn-blue }
+
 ---
 
 # Introduction
