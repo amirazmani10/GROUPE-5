@@ -319,8 +319,48 @@ Ce projet nous a permis de développer des compétences en :
 - Adaptation automatique au terrain.
 
 ---
-
 # VII. Code source
+
+Le programme principal du robot a été développé en langage **C/C++** sous **Arduino IDE** puis téléversé sur la carte **Otto-MKS équipée d'un ESP32-C3**.
+
+Le code assure :
+
+- Le contrôle des quatre servomoteurs ;
+- La marche avant et arrière ;
+- Les rotations gauche et droite ;
+- Le pilotage Bluetooth via RemoteXY ;
+- Le mode manuel et le mode automatique ;
+- La calibration des mouvements ;
+- L'initialisation du robot.
+
+## Bibliothèques utilisées
+
+- ESP32Servo
+- RemoteXY
+- BLEDevice
+- Arduino
+- notes.h
+
+## Paramètres principaux
+
+| Paramètre | Description |
+|------------|------------|
+| `tempo` | Vitesse d'exécution des pas |
+| `stride` | Amplitude des mouvements |
+| `liftGauche` | Levée du pied gauche |
+| `liftDroite` | Levée du pied droit |
+| `drift` | Correction de trajectoire |
+
+Ces paramètres ont été ajustés tout au long du projet afin d'adapter les mouvements à la version agrandie du robot.
+
+## Consulter le programme
+
+Le code source complet est disponible dans le fichier suivant :
+
+➡️ [Accéder au programme complet](code/main.ino)
+
+Le fichier contient l'ensemble des fonctions de déplacement, de communication Bluetooth et de contrôle des servomoteurs utilisées lors des Ottolympiades.
+# VIII. Code source
 
 Le programme principal `main.ino` assure :
 
