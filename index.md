@@ -552,4 +552,4 @@ Au final, ce projet nous a donné une vision concrète de ce que signifie constr
 
 Et honnêtement, voir son robot finir 5ᵉ en sprintant sur un parcours d'obstacles — après des heures de débogage et d'ajustements — c'est une satisfaction qu'aucun cours magistral ne peut reproduire. Cette expérience constitue une base solide pour de futures améliorations visant à rendre le robot encore plus autonome, performant et intelligent.
 
-**ILYAS NASSIRI**
+**ILYAS NASSIRI AMIR AZMANI NOE OBAME**
