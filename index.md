@@ -6,6 +6,11 @@ nav_order: 1
 
 # 🤖 Robot Otto-MKS — I1 Groupe 5
 
+<img width="1170" height="2532" alt="robot_face" src="https://github.com/user-attachments/assets/ec0fb678-6115-4ae2-aa7a-977c9bfebf92" />
+<img width="1170" height="2532" alt="robot_profil" src="https://github.com/user-attachments/assets/10dbde82-93de-4360-bb09-8c82f973f014" />
+
+
+
 **Robot humanoïde bipède autonome**  
 UniLaSalle Amiens — École d'ingénieurs Énergie & Numérique  
 Année universitaire **2025-2026**
